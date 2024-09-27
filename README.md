@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tasnimniger" alt="tasnimniger" /></a> </p>
 
-- 🔭 I’m currently working on **PhD Research**
+- 🔭 I’m currently working on **Some Research work**
 
-- 🌱 I’m currently learning **Generative AI Solutions**
+- 🌱 I’m currently learning **Generative AI Solutions and Cloud platforms**
 
 - 👨‍💻 All of my projects are available at [https://www.researchgate.net/profile/Tasnim-Niger, https://eportfolio.mygreatlearning.com/tasnim-niger , https://eportfolio.mygreatlearning.com/tasnim-niger3]
 
