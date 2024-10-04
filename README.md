@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tasnim Niger</h1>
-<h3 align="center">A passionate Data Science Enthusiast, PhD researcher. I have extended experience in teaching Computer Science and Engineering</h3>
+<h3 align="center">A passionate AI, Data Science Enthusiast, researcher. I have extended experience in teaching Computer Science and Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tasnimniger&label=Profile%20views&color=0e75b6&style=flat" alt="tasnimniger" /> </p>
 
