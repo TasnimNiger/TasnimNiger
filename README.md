@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Generative AI Solutions and Cloud platforms**
 
-- 👨‍💻 All of my projects are available at [https://www.researchgate.net/profile/Tasnim-Niger, https://eportfolio.mygreatlearning.com/tasnim-niger , https://eportfolio.mygreatlearning.com/tasnim-niger3 , https://www.mygreatlearning.com/eportfolio/tasnim-niger4]
+- 👨‍💻 All of my projects are available at [https://www.hyperiondev.com/portfolio/TN24090016233/, https://eportfolio.mygreatlearning.com/tasnim-niger , https://eportfolio.mygreatlearning.com/tasnim-niger3 , https://www.mygreatlearning.com/eportfolio/tasnim-niger4, https://www.mygreatlearning.com/eportfolio/tasnim-niger5, https://www.researchgate.net/profile/Tasnim-Niger]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
